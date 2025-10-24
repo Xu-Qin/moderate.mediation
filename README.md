@@ -1,4 +1,4 @@
-Causal moderated mediation analysis: Methods and software
+# Causal moderated mediation analysis: Methods and software
 
 The R package is available on CRAN: https://cran.r-project.org/web/packages/moderate.mediation/index.html
 
